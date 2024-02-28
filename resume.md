@@ -2,11 +2,11 @@
 
 _Charting the knowledge of the Internet, just like Galileo charted the stars._
 
-_Experience_
+## Experience
 
-_GitHub Trainer_
+GitHub Trainer
 
-Teach all things _Git_, give away all the stickers, ensure world peace.
+Teach all things _Git_ , give away all the stickers, ensure world peace.
 
 <!--
   Note here: Learners -- yup, you found the error!
@@ -17,7 +17,7 @@ Teach all things _Git_, give away all the stickers, ensure world peace.
 
 Provide _world class support_ to customers on the GitHub platform
 
-_Skills_
+## Skills
 
 ### Education
 
